@@ -1,0 +1,15 @@
+h1{
+  color:#2C7EC8;
+  text-align:center;
+}
+h2{
+  color:#DDAD19;
+  background-color:#2C7EC8;
+  font-style:italic;
+  text-align:center;
+}
+p{
+  font-family:sans-serif;
+  line-height:2.5;
+  font-size:20;
+}
